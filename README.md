@@ -14,7 +14,7 @@ A full-stack e-commerce application designed to provide a seamless online shoppi
 - **Frontend:** React, MUI
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **State Management:** (Redux / Context API if used)
+- **State Management:** Context API
 
 ### 📦 Installation
 
