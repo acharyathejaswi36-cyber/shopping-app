@@ -19,7 +19,7 @@ A full-stack e-commerce application designed to provide a seamless online shoppi
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/shopping-app.git
+git clone https://github.com/acharyathejaswi36-cyber/shopping-app.git
 cd shopping-app
 npm install
 npm start
